@@ -1,8 +1,9 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "🄼𝗮𝘀𝘁𝗲𝗿 🅂𝘂𝗻𝗶𝗹
+",
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
+    "keywords": ["Telegram", "auto-filter", "🄼𝗮𝘀𝘁𝗲𝗿 🅂𝘂𝗻𝗶𝗹"],
     "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
@@ -11,7 +12,7 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6599257228:AAEPrDiLIxdoSXKsvSup4N9jqmwGuvCoRZ4.",
             "required": true
         },
         "API_ID": {
@@ -43,7 +44,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "Bot Logs,Give a channel id with -1001539693613",
             "required": true                              
         },
         "AUTH_CHANNEL": {
@@ -57,11 +58,11 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @Owner0423 ❱ • ────➤\n┣ ▫️ @Owner0423\n┣ ▫️ Primium Buy 👇\n╰─────── • ◆ • ───────➤",
             "required": false
         },
         "DATABASE_URL": {
-            "description": "mongoDB URI.",
+            "description": "mongodb+srv://Ryan4636:Helmi4636@cluster0.mgnvtns.mongodb.net/?retryWrites=true&w=majority.",
             "required": true
         },
         "DATABASE_NAME": {
@@ -76,7 +77,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "Trype0143",
             "required": false
         },
         "IMDB": {
